@@ -35,6 +35,8 @@
 18. Командная оболочка zsh + oh-my-zsh <br />
 19. Блютуз bluez, blueman <br />
 20. Изображение при открытии терминала pokemon-colorscripts <br />
+21. Просмотр изображений eye of gnome <br />
+22. Монитор ресурсов btop++ <br />
 <br />
 <br />
 
